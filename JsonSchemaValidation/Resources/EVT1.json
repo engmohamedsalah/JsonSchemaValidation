@@ -1,0 +1,3885 @@
+{
+  "body": {
+    "competition": {
+      "categories": [
+        "Olympic Games",
+        "summer"
+      ],
+      "disciplines": [
+        {
+          "events": [
+            {
+              "athletes": [
+                {
+                  "participantId": "PTC-c944fb39-a105-3142-9e19-76281570a6f9",
+                  "award": {
+                    "class": "AWCL$ME",
+                    "determinationDate": {
+                      "date": "2000-09-17"
+                    },
+                    "subClass": "AWSB$ME_GOLD"
+                  },
+                  "dateOfBirth": {
+                    "date": "1979-01-31"
+                  },
+                  "familyName": "Asloum",
+                  "gender": "PGEN$M",
+                  "givenName": "Brahim",
+                  "id": "IND-d15d55e5-161d-321e-a0e3-3c0d4693b13d",
+                  "order": 8,
+                  "organisation": {
+                    "country": "CNTR$FRA",
+                    "id": "ORN-cfd040bf-a941-375f-8957-4344c555d6a8",
+                    "name": "France",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89889",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 1
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-0af36dc5-3b13-31ab-b167-8698207440e9",
+                  "award": {
+                    "class": "AWCL$ME",
+                    "determinationDate": {
+                      "date": "2000-09-17"
+                    },
+                    "subClass": "AWSB$ME_SILVER"
+                  },
+                  "dateOfBirth": {
+                    "date": "1970-01-24"
+                  },
+                  "familyName": "Lozano",
+                  "gender": "PGEN$M",
+                  "givenName": "Rafael",
+                  "id": "IND-946a6f08-2f52-3d20-bb76-2ba9050d1725",
+                  "order": 54,
+                  "organisation": {
+                    "country": "CNTR$ESP",
+                    "id": "ORN-7c287eb1-9806-3258-afd3-e81ffc97c0aa",
+                    "name": "Spain",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A2864",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 2
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-b0910ee4-059a-3cde-bf4d-bf63fbf3bf7d",
+                  "award": {
+                    "class": "AWCL$ME",
+                    "determinationDate": {
+                      "date": "2000-09-17"
+                    },
+                    "subClass": "AWSB$ME_BRONZE"
+                  },
+                  "dateOfBirth": {
+                    "date": "1979-09-23"
+                  },
+                  "familyName": "Kim",
+                  "gender": "PGEN$M",
+                  "givenName": "Un-Chol",
+                  "id": "IND-1d4a50c1-7f98-3849-b60a-85caeadf6637",
+                  "order": 60,
+                  "organisation": {
+                    "country": "CNTR$PRK",
+                    "id": "ORN-3c0e3a3c-6a1d-30a5-a655-9da1abf5fb0f",
+                    "name": "Democratic People's Republic of Korea",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89986",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 3,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-969d60c2-af65-3350-aefd-935c0b30ba3b",
+                  "award": {
+                    "class": "AWCL$ME",
+                    "determinationDate": {
+                      "date": "2000-09-17"
+                    },
+                    "subClass": "AWSB$ME_BRONZE"
+                  },
+                  "dateOfBirth": {
+                    "date": "1972-12-09"
+                  },
+                  "familyName": "Romero",
+                  "gender": "PGEN$M",
+                  "givenName": "Maikro",
+                  "id": "IND-1f5f8efa-0cff-37cf-80de-b7109e1673ec",
+                  "order": 61,
+                  "organisation": {
+                    "country": "CNTR$CUB",
+                    "id": "ORN-1ed9c51c-774d-34dd-bb39-2a2f19c79ab6",
+                    "name": "Cuba",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A1679",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 3,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-e25bac34-dd61-33fa-9f4a-b098e3e6fcf3",
+                  "dateOfBirth": {
+                    "date": "1980-09-02"
+                  },
+                  "familyName": "Kim",
+                  "gender": "PGEN$M",
+                  "givenName": "Gi-Seok",
+                  "id": "IND-b20f8bf9-27e0-3ed5-9531-569f4373914e",
+                  "order": 62,
+                  "organisation": {
+                    "country": "CNTR$KOR",
+                    "id": "ORN-d5afd3ca-ad54-368b-9bc8-1d45fd0db6b1",
+                    "name": "Republic of Korea",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89949",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 5
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-b58336fa-8b61-3248-ba8a-45f7e4afd5cf",
+                  "dateOfBirth": {
+                    "date": "1978-06-05"
+                  },
+                  "familyName": "Bilali",
+                  "gender": "PGEN$M",
+                  "givenName": "Suleiman Wanjau",
+                  "id": "IND-179f191a-a455-3b5e-aed2-2bcce5763769",
+                  "order": 63,
+                  "organisation": {
+                    "country": "CNTR$KEN",
+                    "id": "ORN-b84810d6-5fa2-3b29-a2bc-4d7aa9dd2c96",
+                    "name": "Kenya",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89937",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 6
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-8ab5e410-15d0-3649-9125-d8e16606802b",
+                  "dateOfBirth": {
+                    "date": "1976-09-23"
+                  },
+                  "familyName": "Sydorenko",
+                  "gender": "PGEN$M",
+                  "givenName": "Valeriy",
+                  "id": "IND-17d2566c-f25b-39ea-8214-aec5f49b5a7f",
+                  "order": 64,
+                  "organisation": {
+                    "country": "CNTR$UKR",
+                    "id": "ORN-5ae7e4cc-039e-36dc-8e0e-8009956a9681",
+                    "name": "Ukraine",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90043",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 7
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-71975973-aa78-32c2-8b1b-71eae1afee27",
+                  "dateOfBirth": {
+                    "date": "1980-07-14"
+                  },
+                  "familyName": "Stapovičius",
+                  "gender": "PGEN$M",
+                  "givenName": "Ivanas",
+                  "id": "IND-0116503e-93b6-3446-82c0-2129c59fd1e0",
+                  "order": 65,
+                  "organisation": {
+                    "country": "CNTR$LTU",
+                    "id": "ORN-0e8aa4f3-b307-3f16-a05c-4df77a2fef2e",
+                    "name": "Lithuania",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89955",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 8
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-e931cb4d-73a9-3192-8381-3942bb00b416",
+                  "dateOfBirth": {
+                    "date": "1980-11-24"
+                  },
+                  "familyName": "Viloria",
+                  "gender": "PGEN$M",
+                  "givenName": "Brian",
+                  "id": "IND-340b5995-f368-3d16-a8c5-9fff9d25826e",
+                  "order": 66,
+                  "organisation": {
+                    "country": "CNTR$USA",
+                    "id": "ORN-2116f74a-cc93-35a8-be5e-add955b4e43b",
+                    "name": "United States",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90057",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-0e436fab-e003-368d-b24d-0101f225fbe7",
+                  "dateOfBirth": {
+                    "date": "1973-11-10"
+                  },
+                  "familyName": "Masara",
+                  "gender": "PGEN$M",
+                  "givenName": "La Paene",
+                  "id": "IND-1d317c5c-7b84-3e76-a09c-0548ea30ddf1",
+                  "order": 67,
+                  "organisation": {
+                    "country": "CNTR$INA",
+                    "id": "ORN-bc899ae5-568f-35fe-8964-c13d033d6c30",
+                    "name": "Indonesia",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A3858",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-28864b06-ab59-39df-917a-3fa8e256ac6d",
+                  "dateOfBirth": {
+                    "date": "1979-07-23"
+                  },
+                  "familyName": "Romero",
+                  "gender": "PGEN$M",
+                  "givenName": "Liborio",
+                  "id": "IND-ed29d635-4a91-39b5-bab9-651a6a6d6676",
+                  "order": 68,
+                  "organisation": {
+                    "country": "CNTR$MEX",
+                    "id": "ORN-b8a4f3b7-fb5f-3237-9342-6483e0a02c3a",
+                    "name": "Mexico",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89966",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-369e995a-e18c-3293-8564-f6e9526f22c3",
+                  "dateOfBirth": {
+                    "date": "1978-05-10"
+                  },
+                  "familyName": "Pannon",
+                  "gender": "PGEN$M",
+                  "givenName": "Suban",
+                  "id": "IND-3d5ded7b-1005-3713-8af3-ddc11cc5f4f6",
+                  "order": 69,
+                  "organisation": {
+                    "country": "CNTR$THA",
+                    "id": "ORN-9d6f9f6c-9878-3f3a-93fa-5675d6b0060a",
+                    "name": "Thailand",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90020",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-94dc4057-2f0d-36d0-9bef-66c68c5fb331",
+                  "dateOfBirth": {
+                    "date": "1977-07-04"
+                  },
+                  "familyName": "Velicu",
+                  "gender": "PGEN$M",
+                  "givenName": "Marian",
+                  "id": "IND-82ac163a-6381-36ef-98d9-dbd2e142a860",
+                  "order": 70,
+                  "organisation": {
+                    "country": "CNTR$ROU",
+                    "id": "ORN-2ec86e43-94bf-301f-8df3-5f0053ca71a9",
+                    "name": "Romania",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89997",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-07ce42e4-f659-3524-9107-a40d0e8e8fc7",
+                  "dateOfBirth": {
+                    "date": "1968-06-07"
+                  },
+                  "familyName": "Lakatos",
+                  "gender": "PGEN$M",
+                  "givenName": "Pál",
+                  "id": "IND-c5f65962-a798-3e74-be11-b298501d32fa",
+                  "order": 71,
+                  "organisation": {
+                    "country": "CNTR$HUN",
+                    "id": "ORN-ca1d2c09-d785-321d-a404-3dba322cdfcb",
+                    "name": "Hungary",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A3817",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-c5489df3-318b-3896-8963-d8b84a2363fd",
+                  "dateOfBirth": {
+                    "date": "1975-09-02"
+                  },
+                  "familyName": "Matyhila",
+                  "gender": "PGEN$M",
+                  "givenName": "Phumzile",
+                  "id": "IND-d36200d0-8fa6-39ed-9a30-204733da93ad",
+                  "order": 72,
+                  "organisation": {
+                    "country": "CNTR$RSA",
+                    "id": "ORN-ced2e996-2854-3f52-80b7-80a8b26e6f0a",
+                    "name": "South Africa",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90001",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-4349b031-bc85-313c-bc2d-44f093ab496b",
+                  "dateOfBirth": {
+                    "date": "1980-11-15"
+                  },
+                  "familyName": "Lerio",
+                  "gender": "PGEN$M",
+                  "givenName": "Danilo",
+                  "id": "IND-29de525f-f0d4-3d10-9787-4353fc34e3e1",
+                  "order": 73,
+                  "organisation": {
+                    "country": "CNTR$PHI",
+                    "id": "ORN-b00a45fb-7314-3db1-b92b-3f0bde77983b",
+                    "name": "Philippines",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89981",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 9,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-49df03f3-be9a-34fc-99ad-7836f874ccad",
+                  "dateOfBirth": {
+                    "date": "1976-01-29"
+                  },
+                  "familyName": "Yuldashev",
+                  "gender": "PGEN$M",
+                  "givenName": "Dilshod",
+                  "id": "IND-6ea3e199-c0e5-39cc-b908-b63cef47a2a3",
+                  "order": 74,
+                  "organisation": {
+                    "country": "CNTR$UZB",
+                    "id": "ORN-a230711e-735f-34c1-b5cd-ac12c609f6d8",
+                    "name": "Uzbekistan",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90066",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-5502550e-adbd-3e05-9d3a-b70605339f60",
+                  "dateOfBirth": {
+                    "date": "1975-01-27"
+                  },
+                  "familyName": "Calderón",
+                  "gender": "PGEN$M",
+                  "givenName": "Iván",
+                  "id": "IND-4d20fd50-217f-3303-955c-5988ccbffb6d",
+                  "order": 75,
+                  "organisation": {
+                    "country": "CNTR$PUR",
+                    "id": "ORN-a5a73d6c-2fd2-302f-829b-88fea88edb6b",
+                    "name": "Puerto Rico",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89987",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-39662da9-876c-353d-bd42-cafbaea87caf",
+                  "dateOfBirth": {
+                    "date": "1975-12-07"
+                  },
+                  "familyName": "Dedé",
+                  "gender": "PGEN$M",
+                  "givenName": "-",
+                  "id": "IND-4a60ec31-cd16-3fc9-a071-49fb622456ed",
+                  "order": 76,
+                  "organisation": {
+                    "country": "CNTR$BRA",
+                    "id": "ORN-c76cf0ba-a068-3e55-a564-717b32e92956",
+                    "name": "Brazil",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89847",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-30c7d5ee-b145-3295-b3da-a9fef1af07b9",
+                  "dateOfBirth": {
+                    "date": "1978-09-27"
+                  },
+                  "familyName": "Varela",
+                  "gender": "PGEN$M",
+                  "givenName": "José Luís",
+                  "id": "IND-3a231e69-91a3-30d1-9ff1-3b1f9981d5a8",
+                  "order": 77,
+                  "organisation": {
+                    "country": "CNTR$VEN",
+                    "id": "ORN-622806b6-07e7-3525-b65d-dba1de652e9a",
+                    "name": "Venezuela",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90067",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-e08b397d-5f7d-350a-ac1b-1a0ed80763f7",
+                  "dateOfBirth": {
+                    "date": "1982-04-10"
+                  },
+                  "familyName": "Soltani",
+                  "gender": "PGEN$M",
+                  "givenName": "Mebarek",
+                  "id": "IND-11ed56ce-af0b-3654-a395-f84191210649",
+                  "order": 78,
+                  "organisation": {
+                    "country": "CNTR$ALG",
+                    "id": "ORN-ed0cd68f-30b8-3085-be50-4300480e3806",
+                    "name": "Algeria",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A6001",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-114b3d9e-daef-3509-bbe1-23a896bd42fc",
+                  "dateOfBirth": {
+                    "date": "1979-08-10"
+                  },
+                  "familyName": "Ballioğlu",
+                  "gender": "PGEN$M",
+                  "givenName": "Ramazan",
+                  "id": "IND-f977b821-e81e-3c6b-972b-bf070a9a91e0",
+                  "order": 79,
+                  "organisation": {
+                    "country": "CNTR$TUR",
+                    "id": "ORN-fa93648f-d466-302e-b6dd-a9db283c41d2",
+                    "name": "Turkey",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90028",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-42936c60-fa4e-3ccf-bdcb-88314cbd1adc",
+                  "dateOfBirth": {
+                    "date": "1978-05-13"
+                  },
+                  "familyName": "Abdel Rehim",
+                  "gender": "PGEN$M",
+                  "givenName": "Mohamed",
+                  "id": "IND-aa569a2d-72cb-385e-9e46-894d184609dc",
+                  "order": 80,
+                  "organisation": {
+                    "country": "CNTR$EGY",
+                    "id": "ORN-ba393530-440f-372b-b853-a2431bf1d38b",
+                    "name": "Egypt",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89882",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-45ced6c0-ecc6-3399-9555-326e5144aac4",
+                  "dateOfBirth": {
+                    "date": "1974-10-17"
+                  },
+                  "familyName": "Kizito",
+                  "gender": "PGEN$M",
+                  "givenName": "Sunday",
+                  "id": "IND-30f980ba-9b8a-3d47-b2f3-0aede894ac41",
+                  "order": 81,
+                  "organisation": {
+                    "country": "CNTR$UGA",
+                    "id": "ORN-2ede2fa9-941e-3ae6-94f3-b0fe68ff1223",
+                    "name": "Uganda",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90034",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-4b6564a5-7acc-3504-980d-63fcd95cb078",
+                  "dateOfBirth": {
+                    "date": "1981-04-04"
+                  },
+                  "familyName": "Keketsi",
+                  "gender": "PGEN$M",
+                  "givenName": "Sebusiso",
+                  "id": "IND-b3a34c4c-f318-3328-9b6c-28105d6d5ef8",
+                  "order": 82,
+                  "organisation": {
+                    "country": "CNTR$LES",
+                    "id": "ORN-ad797d9b-2e29-3bae-a13b-36e8a64f203a",
+                    "name": "Lesotho",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89952",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-fed87ba4-e147-390e-ac70-0c747bddbf40",
+                  "dateOfBirth": {
+                    "date": "1976-07-08"
+                  },
+                  "familyName": "Kazakov",
+                  "gender": "PGEN$M",
+                  "givenName": "Sergey",
+                  "id": "IND-55047c86-534f-31f8-9c01-39e3ba83c8aa",
+                  "order": 83,
+                  "organisation": {
+                    "country": "CNTR$RUS",
+                    "id": "ORN-114fc576-5607-331c-af38-de6fffbbc9bf",
+                    "name": "Russian Federation",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A90006",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                },
+                {
+                  "participantId": "PTC-853adaee-6bfd-3434-88a1-6c45f51eccd9",
+                  "dateOfBirth": {
+                    "date": "1980-03-01"
+                  },
+                  "familyName": "Suresh Singh",
+                  "gender": "PGEN$M",
+                  "givenName": "Soubam",
+                  "id": "IND-f4b4a829-9433-3627-9314-8780b897b163",
+                  "order": 84,
+                  "organisation": {
+                    "country": "CNTR$IND",
+                    "id": "ORN-167fd085-2538-3035-81e7-d95665af993b",
+                    "name": "India",
+                    "type": "ORGT$OC"
+                  },
+                  "otherIds": [
+                    {
+                      "id": "A89920",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "result": {
+                    "rank": 17,
+                    "rankEqual": true
+                  },
+                  "status": "PTST$ACTIVE"
+                }
+              ],
+              "competitorType": "INDIVIDUAL",
+              "end": {
+                "date": "2000-09-30"
+              },
+              "gender": "SGEN$M",
+              "id": "EVT-000e8780-ffd8-3e67-9d91-ea2948c4b5b3",
+              "otherIds": [
+                {
+                  "id": "26977",
+                  "source": "OLYMPEDIA",
+                  "type": "ID"
+                }
+              ],
+              "stages": [
+                {
+                  "id": "STG-16d1c07d-c12f-34dd-bb74-6134417c696e",
+                  "order": 1,
+                  "otherIds": [
+                    {
+                      "id": "26977-STG01",
+                      "source": "OLYMPEDIA",
+                      "type": "ID"
+                    }
+                  ],
+                  "phases": [
+                    {
+                      "id": "PHA-101bf358-0ea9-343e-ab66-0dd01ed1b990",
+                      "order": 1,
+                      "otherIds": [
+                        {
+                          "id": "26977-STG01-PHA01",
+                          "source": "OLYMPEDIA",
+                          "type": "ID"
+                        }
+                      ],
+                      "start": {
+                        "date": "2000-09-17"
+                      },
+                      "title": "Round One",
+                      "units": [
+                        {
+                          "order": 1,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-4349b031-bc85-313c-bc2d-44f093ab496b",
+                              "dateOfBirth": {
+                                "date": "1980-11-15"
+                              },
+                              "familyName": "Lerio",
+                              "gender": "PGEN$M",
+                              "givenName": "Danilo",
+                              "id": "IND-29de525f-f0d4-3d10-9787-4353fc34e3e1",
+                              "order": 19,
+                              "organisation": {
+                                "country": "CNTR$PHI",
+                                "id": "ORN-b00a45fb-7314-3db1-b92b-3f0bde77983b",
+                                "name": "Philippines",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89981",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "bye"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-0ad70570-6267-3036-b00e-8f6801d5027d",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT01",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #1",
+                          "unitNumber": 1,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-0ad70570-6267-3036-b00e-8f6801d5027d",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 2,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-0af36dc5-3b13-31ab-b167-8698207440e9",
+                              "dateOfBirth": {
+                                "date": "1970-01-24"
+                              },
+                              "familyName": "Lozano",
+                              "gender": "PGEN$M",
+                              "givenName": "Rafael",
+                              "id": "IND-946a6f08-2f52-3d20-bb76-2ba9050d1725",
+                              "order": 3,
+                              "organisation": {
+                                "country": "CNTR$ESP",
+                                "id": "ORN-7c287eb1-9806-3258-afd3-e81ffc97c0aa",
+                                "name": "Spain",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A2864",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "bye"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-99c44f19-3da7-3e19-9d05-c1292ee77a1c",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT02",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #2",
+                          "unitNumber": 2,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-99c44f19-3da7-3e19-9d05-c1292ee77a1c",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 3,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-c5489df3-318b-3896-8963-d8b84a2363fd",
+                              "dateOfBirth": {
+                                "date": "1975-09-02"
+                              },
+                              "familyName": "Matyhila",
+                              "gender": "PGEN$M",
+                              "givenName": "Phumzile",
+                              "id": "IND-d36200d0-8fa6-39ed-9a30-204733da93ad",
+                              "order": 27,
+                              "organisation": {
+                                "country": "CNTR$RSA",
+                                "id": "ORN-ced2e996-2854-3f52-80b7-80a8b26e6f0a",
+                                "name": "South Africa",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90001",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "bye"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-093d2841-a270-31ad-bf75-c56db3a480b0",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT03",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #3",
+                          "unitNumber": 3,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-093d2841-a270-31ad-bf75-c56db3a480b0",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 4,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-b58336fa-8b61-3248-ba8a-45f7e4afd5cf",
+                              "dateOfBirth": {
+                                "date": "1978-06-05"
+                              },
+                              "familyName": "Bilali",
+                              "gender": "PGEN$M",
+                              "givenName": "Suleiman Wanjau",
+                              "id": "IND-179f191a-a455-3b5e-aed2-2bcce5763769",
+                              "order": 5,
+                              "organisation": {
+                                "country": "CNTR$KEN",
+                                "id": "ORN-b84810d6-5fa2-3b29-a2bc-4d7aa9dd2c96",
+                                "name": "Kenya",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89937",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "bye"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-86601ab7-64cb-3c43-a3a1-44fc32bbdca7",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT04",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #4",
+                          "unitNumber": 4,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-86601ab7-64cb-3c43-a3a1-44fc32bbdca7",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 5,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-07ce42e4-f659-3524-9107-a40d0e8e8fc7",
+                              "dateOfBirth": {
+                                "date": "1968-06-07"
+                              },
+                              "familyName": "Lakatos",
+                              "gender": "PGEN$M",
+                              "givenName": "Pál",
+                              "id": "IND-c5f65962-a798-3e74-be11-b298501d32fa",
+                              "order": 17,
+                              "organisation": {
+                                "country": "CNTR$HUN",
+                                "id": "ORN-ca1d2c09-d785-321d-a404-3dba322cdfcb",
+                                "name": "Hungary",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A3817",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "bye"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-23fb5765-3678-36fa-bcba-3225f4856597",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT05",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #5",
+                          "unitNumber": 5,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-23fb5765-3678-36fa-bcba-3225f4856597",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 6,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-b0910ee4-059a-3cde-bf4d-bf63fbf3bf7d",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-09-23"
+                              },
+                              "extensions": {
+                                "miscellaneous": {
+                                  "notes": "Kim went ahead by 15 points with last punch of round three, so bout was stopped between rounds."
+                                },
+                                "notes": {
+                                  "notes": "Kim went ahead by 15 points with last punch of round three, so bout was stopped between rounds."
+                                }
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Un-Chol",
+                              "id": "IND-1d4a50c1-7f98-3849-b60a-85caeadf6637",
+                              "order": 9,
+                              "organisation": {
+                                "country": "CNTR$PRK",
+                                "id": "ORN-3c0e3a3c-6a1d-30a5-a655-9da1abf5fb0f",
+                                "name": "Democratic People's Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89986",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "round": 4.0,
+                                      "matchResult": "referee stops contest (outscored)"
+                                    }
+                                  ],
+                                  "statistics": [
+                                    {
+                                      "$schema": "$box.statistics.v1",
+                                      "time": "0:00"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "17",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-4b6564a5-7acc-3504-980d-63fcd95cb078",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1981-04-04"
+                              },
+                              "familyName": "Keketsi",
+                              "gender": "PGEN$M",
+                              "givenName": "Sebusiso",
+                              "id": "IND-b3a34c4c-f318-3328-9b6c-28105d6d5ef8",
+                              "order": 36,
+                              "organisation": {
+                                "country": "CNTR$LES",
+                                "id": "ORN-ad797d9b-2e29-3bae-a13b-36e8a64f203a",
+                                "name": "Lesotho",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89952",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "2",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-4a78bc9d-d7c3-317f-bdd8-9d90aa2a825c",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT06",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #6",
+                          "unitNumber": 6,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-4a78bc9d-d7c3-317f-bdd8-9d90aa2a825c",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 7,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-28864b06-ab59-39df-917a-3fa8e256ac6d",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-07-23"
+                              },
+                              "familyName": "Romero",
+                              "gender": "PGEN$M",
+                              "givenName": "Liborio",
+                              "id": "IND-ed29d635-4a91-39b5-bab9-651a6a6d6676",
+                              "order": 22,
+                              "organisation": {
+                                "country": "CNTR$MEX",
+                                "id": "ORN-b8a4f3b7-fb5f-3237-9342-6483e0a02c3a",
+                                "name": "Mexico",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89966",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "16",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-e08b397d-5f7d-350a-ac1b-1a0ed80763f7",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1982-04-10"
+                              },
+                              "familyName": "Soltani",
+                              "gender": "PGEN$M",
+                              "givenName": "Mebarek",
+                              "id": "IND-11ed56ce-af0b-3654-a395-f84191210649",
+                              "order": 52,
+                              "organisation": {
+                                "country": "CNTR$ALG",
+                                "id": "ORN-ed0cd68f-30b8-3085-be50-4300480e3806",
+                                "name": "Algeria",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A6001",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "15",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-8d43dcc4-ac2b-3a7f-b482-a842351b758f",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT07",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #7",
+                          "unitNumber": 7,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-8d43dcc4-ac2b-3a7f-b482-a842351b758f",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 8,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-71975973-aa78-32c2-8b1b-71eae1afee27",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1980-07-14"
+                              },
+                              "familyName": "Stapovičius",
+                              "gender": "PGEN$M",
+                              "givenName": "Ivanas",
+                              "id": "IND-0116503e-93b6-3446-82c0-2129c59fd1e0",
+                              "order": 10,
+                              "organisation": {
+                                "country": "CNTR$LTU",
+                                "id": "ORN-0e8aa4f3-b307-3f16-a05c-4df77a2fef2e",
+                                "name": "Lithuania",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89955",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "9",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-45ced6c0-ecc6-3399-9555-326e5144aac4",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1974-10-17"
+                              },
+                              "familyName": "Kizito",
+                              "gender": "PGEN$M",
+                              "givenName": "Sunday",
+                              "id": "IND-30f980ba-9b8a-3d47-b2f3-0aede894ac41",
+                              "order": 58,
+                              "organisation": {
+                                "country": "CNTR$UGA",
+                                "id": "ORN-2ede2fa9-941e-3ae6-94f3-b0fe68ff1223",
+                                "name": "Uganda",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90034",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "3",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-16a8c39b-3e93-34c1-9895-bb494207fa9b",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT08",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #8",
+                          "unitNumber": 8,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-16a8c39b-3e93-34c1-9895-bb494207fa9b",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 9,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-e25bac34-dd61-33fa-9f4a-b098e3e6fcf3",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1980-09-02"
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Gi-Seok",
+                              "id": "IND-b20f8bf9-27e0-3ed5-9531-569f4373914e",
+                              "order": 32,
+                              "organisation": {
+                                "country": "CNTR$KOR",
+                                "id": "ORN-d5afd3ca-ad54-368b-9bc8-1d45fd0db6b1",
+                                "name": "Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89949",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "9",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-853adaee-6bfd-3434-88a1-6c45f51eccd9",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1980-03-01"
+                              },
+                              "familyName": "Suresh Singh",
+                              "gender": "PGEN$M",
+                              "givenName": "Soubam",
+                              "id": "IND-f4b4a829-9433-3627-9314-8780b897b163",
+                              "order": 55,
+                              "organisation": {
+                                "country": "CNTR$IND",
+                                "id": "ORN-167fd085-2538-3035-81e7-d95665af993b",
+                                "name": "India",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89920",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "5",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-6a995243-fc96-3840-8dd9-1ece1f8d16b4",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT09",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #9",
+                          "unitNumber": 9,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-6a995243-fc96-3840-8dd9-1ece1f8d16b4",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 10,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-0e436fab-e003-368d-b24d-0101f225fbe7",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1973-11-10"
+                              },
+                              "familyName": "Masara",
+                              "gender": "PGEN$M",
+                              "givenName": "La Paene",
+                              "id": "IND-1d317c5c-7b84-3e76-a09c-0548ea30ddf1",
+                              "order": 28,
+                              "organisation": {
+                                "country": "CNTR$INA",
+                                "id": "ORN-bc899ae5-568f-35fe-8964-c13d033d6c30",
+                                "name": "Indonesia",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A3858",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "10",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-5502550e-adbd-3e05-9d3a-b70605339f60",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1975-01-27"
+                              },
+                              "familyName": "Calderón",
+                              "gender": "PGEN$M",
+                              "givenName": "Iván",
+                              "id": "IND-4d20fd50-217f-3303-955c-5988ccbffb6d",
+                              "order": 59,
+                              "organisation": {
+                                "country": "CNTR$PUR",
+                                "id": "ORN-a5a73d6c-2fd2-302f-829b-88fea88edb6b",
+                                "name": "Puerto Rico",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89987",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "5",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-c8979707-fce8-3d03-8a8f-ad665d777cad",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT10",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #10",
+                          "unitNumber": 10,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-c8979707-fce8-3d03-8a8f-ad665d777cad",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 11,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-c944fb39-a105-3142-9e19-76281570a6f9",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1979-01-31"
+                              },
+                              "familyName": "Asloum",
+                              "gender": "PGEN$M",
+                              "givenName": "Brahim",
+                              "id": "IND-d15d55e5-161d-321e-a0e3-3c0d4693b13d",
+                              "order": 12,
+                              "organisation": {
+                                "country": "CNTR$FRA",
+                                "id": "ORN-cfd040bf-a941-375f-8957-4344c555d6a8",
+                                "name": "France",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89889",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "12",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-42936c60-fa4e-3ccf-bdcb-88314cbd1adc",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1978-05-13"
+                              },
+                              "familyName": "Abdel Rehim",
+                              "gender": "PGEN$M",
+                              "givenName": "Mohamed",
+                              "id": "IND-aa569a2d-72cb-385e-9e46-894d184609dc",
+                              "order": 43,
+                              "organisation": {
+                                "country": "CNTR$EGY",
+                                "id": "ORN-ba393530-440f-372b-b853-a2431bf1d38b",
+                                "name": "Egypt",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89882",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "3",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-cea1762d-ba45-3299-ad3b-5a521f421cf7",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT11",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #11",
+                          "unitNumber": 11,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-cea1762d-ba45-3299-ad3b-5a521f421cf7",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 12,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-e931cb4d-73a9-3192-8381-3942bb00b416",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1980-11-24"
+                              },
+                              "familyName": "Viloria",
+                              "gender": "PGEN$M",
+                              "givenName": "Brian",
+                              "id": "IND-340b5995-f368-3d16-a8c5-9fff9d25826e",
+                              "order": 25,
+                              "organisation": {
+                                "country": "CNTR$USA",
+                                "id": "ORN-2116f74a-cc93-35a8-be5e-add955b4e43b",
+                                "name": "United States",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90057",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "8",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-fed87ba4-e147-390e-ac70-0c747bddbf40",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1976-07-08"
+                              },
+                              "familyName": "Kazakov",
+                              "gender": "PGEN$M",
+                              "givenName": "Sergey",
+                              "id": "IND-55047c86-534f-31f8-9c01-39e3ba83c8aa",
+                              "order": 41,
+                              "organisation": {
+                                "country": "CNTR$RUS",
+                                "id": "ORN-114fc576-5607-331c-af38-de6fffbbc9bf",
+                                "name": "Russian Federation",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90006",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "6",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-e25724e3-189e-3aca-adce-5addb0a00e47",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT12",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #12",
+                          "unitNumber": 12,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-e25724e3-189e-3aca-adce-5addb0a00e47",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 13,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-369e995a-e18c-3293-8564-f6e9526f22c3",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1978-05-10"
+                              },
+                              "familyName": "Pannon",
+                              "gender": "PGEN$M",
+                              "givenName": "Suban",
+                              "id": "IND-3d5ded7b-1005-3713-8af3-ddc11cc5f4f6",
+                              "order": 24,
+                              "organisation": {
+                                "country": "CNTR$THA",
+                                "id": "ORN-9d6f9f6c-9878-3f3a-93fa-5675d6b0060a",
+                                "name": "Thailand",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90020",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "16",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-49df03f3-be9a-34fc-99ad-7836f874ccad",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1976-01-29"
+                              },
+                              "familyName": "Yuldashev",
+                              "gender": "PGEN$M",
+                              "givenName": "Dilshod",
+                              "id": "IND-6ea3e199-c0e5-39cc-b908-b63cef47a2a3",
+                              "order": 37,
+                              "organisation": {
+                                "country": "CNTR$UZB",
+                                "id": "ORN-a230711e-735f-34c1-b5cd-ac12c609f6d8",
+                                "name": "Uzbekistan",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90066",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "6",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-b60f9b56-1359-3b1f-ad1c-b5a09312731f",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT13",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #13",
+                          "unitNumber": 13,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-b60f9b56-1359-3b1f-ad1c-b5a09312731f",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 14,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-8ab5e410-15d0-3649-9125-d8e16606802b",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1976-09-23"
+                              },
+                              "familyName": "Sydorenko",
+                              "gender": "PGEN$M",
+                              "givenName": "Valeriy",
+                              "id": "IND-17d2566c-f25b-39ea-8214-aec5f49b5a7f",
+                              "order": 20,
+                              "organisation": {
+                                "country": "CNTR$UKR",
+                                "id": "ORN-5ae7e4cc-039e-36dc-8e0e-8009956a9681",
+                                "name": "Ukraine",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90043",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "12",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-39662da9-876c-353d-bd42-cafbaea87caf",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1975-12-07"
+                              },
+                              "familyName": "Dedé",
+                              "gender": "PGEN$M",
+                              "givenName": "-",
+                              "id": "IND-4a60ec31-cd16-3fc9-a071-49fb622456ed",
+                              "order": 51,
+                              "organisation": {
+                                "country": "CNTR$BRA",
+                                "id": "ORN-c76cf0ba-a068-3e55-a564-717b32e92956",
+                                "name": "Brazil",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89847",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "7",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-e544857f-5060-37b8-b7c9-ac7c567b075d",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT14",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #14",
+                          "unitNumber": 14,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-e544857f-5060-37b8-b7c9-ac7c567b075d",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 15,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-969d60c2-af65-3350-aefd-935c0b30ba3b",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1972-12-09"
+                              },
+                              "familyName": "Romero",
+                              "gender": "PGEN$M",
+                              "givenName": "Maikro",
+                              "id": "IND-1f5f8efa-0cff-37cf-80de-b7109e1673ec",
+                              "order": 18,
+                              "organisation": {
+                                "country": "CNTR$CUB",
+                                "id": "ORN-1ed9c51c-774d-34dd-bb39-2a2f19c79ab6",
+                                "name": "Cuba",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A1679",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "15",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-30c7d5ee-b145-3295-b3da-a9fef1af07b9",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1978-09-27"
+                              },
+                              "familyName": "Varela",
+                              "gender": "PGEN$M",
+                              "givenName": "José Luís",
+                              "id": "IND-3a231e69-91a3-30d1-9ff1-3b1f9981d5a8",
+                              "order": 48,
+                              "organisation": {
+                                "country": "CNTR$VEN",
+                                "id": "ORN-622806b6-07e7-3525-b65d-dba1de652e9a",
+                                "name": "Venezuela",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90067",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "1",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-e857a012-3202-3749-b145-ad12d4465561",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT15",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #15",
+                          "unitNumber": 15,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-e857a012-3202-3749-b145-ad12d4465561",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 16,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-94dc4057-2f0d-36d0-9bef-66c68c5fb331",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1977-07-04"
+                              },
+                              "familyName": "Velicu",
+                              "gender": "PGEN$M",
+                              "givenName": "Marian",
+                              "id": "IND-82ac163a-6381-36ef-98d9-dbd2e142a860",
+                              "order": 16,
+                              "organisation": {
+                                "country": "CNTR$ROU",
+                                "id": "ORN-2ec86e43-94bf-301f-8df3-5f0053ca71a9",
+                                "name": "Romania",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89997",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "20",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-114b3d9e-daef-3509-bbe1-23a896bd42fc",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-08-10"
+                              },
+                              "familyName": "Ballioğlu",
+                              "gender": "PGEN$M",
+                              "givenName": "Ramazan",
+                              "id": "IND-f977b821-e81e-3c6b-972b-bf070a9a91e0",
+                              "order": 35,
+                              "organisation": {
+                                "country": "CNTR$TUR",
+                                "id": "ORN-fa93648f-d466-302e-b6dd-a9db283c41d2",
+                                "name": "Turkey",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90028",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "8",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-e82429c7-893d-3ee1-be2a-03c9934ac2c9",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA01-UNT16",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-17",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #16",
+                          "unitNumber": 16,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-e82429c7-893d-3ee1-be2a-03c9934ac2c9",
+                              "rel": "unit"
+                            }
+                          ]
+                        }
+                      ],
+                      "links": [
+                        {
+                          "type": "GET",
+                          "href": "/v1.4/phases/PHA-101bf358-0ea9-343e-ab66-0dd01ed1b990",
+                          "rel": "phase"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "PHA-6ae13901-3dcb-3f17-a428-e29c8e52da4b",
+                      "order": 2,
+                      "otherIds": [
+                        {
+                          "id": "26977-STG01-PHA02",
+                          "source": "OLYMPEDIA",
+                          "type": "ID"
+                        }
+                      ],
+                      "start": {
+                        "date": "2000-09-22"
+                      },
+                      "title": "Round Two",
+                      "units": [
+                        {
+                          "order": 1,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-0af36dc5-3b13-31ab-b167-8698207440e9",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1970-01-24"
+                              },
+                              "familyName": "Lozano",
+                              "gender": "PGEN$M",
+                              "givenName": "Rafael",
+                              "id": "IND-946a6f08-2f52-3d20-bb76-2ba9050d1725",
+                              "order": 30,
+                              "organisation": {
+                                "country": "CNTR$ESP",
+                                "id": "ORN-7c287eb1-9806-3258-afd3-e81ffc97c0aa",
+                                "name": "Spain",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A2864",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "17",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-4349b031-bc85-313c-bc2d-44f093ab496b",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1980-11-15"
+                              },
+                              "familyName": "Lerio",
+                              "gender": "PGEN$M",
+                              "givenName": "Danilo",
+                              "id": "IND-29de525f-f0d4-3d10-9787-4353fc34e3e1",
+                              "order": 40,
+                              "organisation": {
+                                "country": "CNTR$PHI",
+                                "id": "ORN-b00a45fb-7314-3db1-b92b-3f0bde77983b",
+                                "name": "Philippines",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89981",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "15",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-ffff88a9-2594-3ca3-ba67-8cda156c4043",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT01",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #1",
+                          "unitNumber": 1,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-ffff88a9-2594-3ca3-ba67-8cda156c4043",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 2,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-b58336fa-8b61-3248-ba8a-45f7e4afd5cf",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1978-06-05"
+                              },
+                              "familyName": "Bilali",
+                              "gender": "PGEN$M",
+                              "givenName": "Suleiman Wanjau",
+                              "id": "IND-179f191a-a455-3b5e-aed2-2bcce5763769",
+                              "order": 2,
+                              "organisation": {
+                                "country": "CNTR$KEN",
+                                "id": "ORN-b84810d6-5fa2-3b29-a2bc-4d7aa9dd2c96",
+                                "name": "Kenya",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89937",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "round": 1.0,
+                                      "matchResult": "referee stops contest (outscored)"
+                                    }
+                                  ],
+                                  "statistics": [
+                                    {
+                                      "$schema": "$box.statistics.v1",
+                                      "time": "1:57"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "15",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-c5489df3-318b-3896-8963-d8b84a2363fd",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1975-09-02"
+                              },
+                              "familyName": "Matyhila",
+                              "gender": "PGEN$M",
+                              "givenName": "Phumzile",
+                              "id": "IND-d36200d0-8fa6-39ed-9a30-204733da93ad",
+                              "order": 38,
+                              "organisation": {
+                                "country": "CNTR$RSA",
+                                "id": "ORN-ced2e996-2854-3f52-80b7-80a8b26e6f0a",
+                                "name": "South Africa",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90001",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "0",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-7d8c883a-fcfa-354b-9cc9-cb9551e08aaa",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT02",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #2",
+                          "unitNumber": 2,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-7d8c883a-fcfa-354b-9cc9-cb9551e08aaa",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 3,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-b0910ee4-059a-3cde-bf4d-bf63fbf3bf7d",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1979-09-23"
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Un-Chol",
+                              "id": "IND-1d4a50c1-7f98-3849-b60a-85caeadf6637",
+                              "order": 7,
+                              "organisation": {
+                                "country": "CNTR$PRK",
+                                "id": "ORN-3c0e3a3c-6a1d-30a5-a655-9da1abf5fb0f",
+                                "name": "Democratic People's Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89986",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "20",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-07ce42e4-f659-3524-9107-a40d0e8e8fc7",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1968-06-07"
+                              },
+                              "familyName": "Lakatos",
+                              "gender": "PGEN$M",
+                              "givenName": "Pál",
+                              "id": "IND-c5f65962-a798-3e74-be11-b298501d32fa",
+                              "order": 44,
+                              "organisation": {
+                                "country": "CNTR$HUN",
+                                "id": "ORN-ca1d2c09-d785-321d-a404-3dba322cdfcb",
+                                "name": "Hungary",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A3817",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "8",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-0187cdf8-319c-3ee8-a16e-1c71f417fca0",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT03",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #3",
+                          "unitNumber": 3,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-0187cdf8-319c-3ee8-a16e-1c71f417fca0",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 4,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-71975973-aa78-32c2-8b1b-71eae1afee27",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1980-07-14"
+                              },
+                              "familyName": "Stapovičius",
+                              "gender": "PGEN$M",
+                              "givenName": "Ivanas",
+                              "id": "IND-0116503e-93b6-3446-82c0-2129c59fd1e0",
+                              "order": 1,
+                              "organisation": {
+                                "country": "CNTR$LTU",
+                                "id": "ORN-0e8aa4f3-b307-3f16-a05c-4df77a2fef2e",
+                                "name": "Lithuania",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89955",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "24",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-28864b06-ab59-39df-917a-3fa8e256ac6d",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-07-23"
+                              },
+                              "familyName": "Romero",
+                              "gender": "PGEN$M",
+                              "givenName": "Liborio",
+                              "id": "IND-ed29d635-4a91-39b5-bab9-651a6a6d6676",
+                              "order": 53,
+                              "organisation": {
+                                "country": "CNTR$MEX",
+                                "id": "ORN-b8a4f3b7-fb5f-3237-9342-6483e0a02c3a",
+                                "name": "Mexico",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89966",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "11",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-ebec54a3-4312-356e-b620-6fabef534d46",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT04",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #4",
+                          "unitNumber": 4,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-ebec54a3-4312-356e-b620-6fabef534d46",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 5,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-e25bac34-dd61-33fa-9f4a-b098e3e6fcf3",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1980-09-02"
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Gi-Seok",
+                              "id": "IND-b20f8bf9-27e0-3ed5-9531-569f4373914e",
+                              "order": 13,
+                              "organisation": {
+                                "country": "CNTR$KOR",
+                                "id": "ORN-d5afd3ca-ad54-368b-9bc8-1d45fd0db6b1",
+                                "name": "Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89949",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "8",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-0e436fab-e003-368d-b24d-0101f225fbe7",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1973-11-10"
+                              },
+                              "familyName": "Masara",
+                              "gender": "PGEN$M",
+                              "givenName": "La Paene",
+                              "id": "IND-1d317c5c-7b84-3e76-a09c-0548ea30ddf1",
+                              "order": 47,
+                              "organisation": {
+                                "country": "CNTR$INA",
+                                "id": "ORN-bc899ae5-568f-35fe-8964-c13d033d6c30",
+                                "name": "Indonesia",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A3858",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "4",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-99d8522b-ea21-3148-ab1e-cefa085b42ba",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT05",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #5",
+                          "unitNumber": 5,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-99d8522b-ea21-3148-ab1e-cefa085b42ba",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 6,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-c944fb39-a105-3142-9e19-76281570a6f9",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-01-31"
+                              },
+                              "familyName": "Asloum",
+                              "gender": "PGEN$M",
+                              "givenName": "Brahim",
+                              "id": "IND-d15d55e5-161d-321e-a0e3-3c0d4693b13d",
+                              "order": 11,
+                              "organisation": {
+                                "country": "CNTR$FRA",
+                                "id": "ORN-cfd040bf-a941-375f-8957-4344c555d6a8",
+                                "name": "France",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89889",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "6",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-e931cb4d-73a9-3192-8381-3942bb00b416",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1980-11-24"
+                              },
+                              "familyName": "Viloria",
+                              "gender": "PGEN$M",
+                              "givenName": "Brian",
+                              "id": "IND-340b5995-f368-3d16-a8c5-9fff9d25826e",
+                              "order": 34,
+                              "organisation": {
+                                "country": "CNTR$USA",
+                                "id": "ORN-2116f74a-cc93-35a8-be5e-add955b4e43b",
+                                "name": "United States",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90057",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "4",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-5497bae2-fd7e-3b5e-9d35-3e8f58bf48e4",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT06",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #6",
+                          "unitNumber": 6,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-5497bae2-fd7e-3b5e-9d35-3e8f58bf48e4",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 7,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-8ab5e410-15d0-3649-9125-d8e16606802b",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1976-09-23"
+                              },
+                              "familyName": "Sydorenko",
+                              "gender": "PGEN$M",
+                              "givenName": "Valeriy",
+                              "id": "IND-17d2566c-f25b-39ea-8214-aec5f49b5a7f",
+                              "order": 14,
+                              "organisation": {
+                                "country": "CNTR$UKR",
+                                "id": "ORN-5ae7e4cc-039e-36dc-8e0e-8009956a9681",
+                                "name": "Ukraine",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90043",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "round": 1.0,
+                                      "matchResult": "referee stops contest (injured)"
+                                    }
+                                  ],
+                                  "statistics": [
+                                    {
+                                      "$schema": "$box.statistics.v1",
+                                      "time": "1:09"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "2",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-369e995a-e18c-3293-8564-f6e9526f22c3",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1978-05-10"
+                              },
+                              "familyName": "Pannon",
+                              "gender": "PGEN$M",
+                              "givenName": "Suban",
+                              "id": "IND-3d5ded7b-1005-3713-8af3-ddc11cc5f4f6",
+                              "order": 39,
+                              "organisation": {
+                                "country": "CNTR$THA",
+                                "id": "ORN-9d6f9f6c-9878-3f3a-93fa-5675d6b0060a",
+                                "name": "Thailand",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90020",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "2",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-19fc641e-251c-3f37-be6f-11bc39b3a2a5",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT07",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #7",
+                          "unitNumber": 7,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-19fc641e-251c-3f37-be6f-11bc39b3a2a5",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 8,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-969d60c2-af65-3350-aefd-935c0b30ba3b",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1972-12-09"
+                              },
+                              "familyName": "Romero",
+                              "gender": "PGEN$M",
+                              "givenName": "Maikro",
+                              "id": "IND-1f5f8efa-0cff-37cf-80de-b7109e1673ec",
+                              "order": 31,
+                              "organisation": {
+                                "country": "CNTR$CUB",
+                                "id": "ORN-1ed9c51c-774d-34dd-bb39-2a2f19c79ab6",
+                                "name": "Cuba",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A1679",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "round": 4.0,
+                                      "matchResult": "referee stops contest (outscored)"
+                                    }
+                                  ],
+                                  "statistics": [
+                                    {
+                                      "$schema": "$box.statistics.v1",
+                                      "time": "1:36"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "16",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-94dc4057-2f0d-36d0-9bef-66c68c5fb331",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1977-07-04"
+                              },
+                              "familyName": "Velicu",
+                              "gender": "PGEN$M",
+                              "givenName": "Marian",
+                              "id": "IND-82ac163a-6381-36ef-98d9-dbd2e142a860",
+                              "order": 45,
+                              "organisation": {
+                                "country": "CNTR$ROU",
+                                "id": "ORN-2ec86e43-94bf-301f-8df3-5f0053ca71a9",
+                                "name": "Romania",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89997",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "1",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-20beb3c4-fd89-3c86-b148-cb67025e4b48",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA02-UNT08",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-22",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #8",
+                          "unitNumber": 8,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-20beb3c4-fd89-3c86-b148-cb67025e4b48",
+                              "rel": "unit"
+                            }
+                          ]
+                        }
+                      ],
+                      "links": [
+                        {
+                          "type": "GET",
+                          "href": "/v1.4/phases/PHA-6ae13901-3dcb-3f17-a428-e29c8e52da4b",
+                          "rel": "phase"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "PHA-b4db5f69-6b61-30d9-8958-14f27cda5c31",
+                      "order": 3,
+                      "otherIds": [
+                        {
+                          "id": "26977-STG01-PHA03",
+                          "source": "OLYMPEDIA",
+                          "type": "ID"
+                        }
+                      ],
+                      "start": {
+                        "date": "2000-09-26"
+                      },
+                      "title": "Quarter-Finals",
+                      "units": [
+                        {
+                          "order": 1,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-0af36dc5-3b13-31ab-b167-8698207440e9",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1970-01-24"
+                              },
+                              "familyName": "Lozano",
+                              "gender": "PGEN$M",
+                              "givenName": "Rafael",
+                              "id": "IND-946a6f08-2f52-3d20-bb76-2ba9050d1725",
+                              "order": 6,
+                              "organisation": {
+                                "country": "CNTR$ESP",
+                                "id": "ORN-7c287eb1-9806-3258-afd3-e81ffc97c0aa",
+                                "name": "Spain",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A2864",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "11",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-b58336fa-8b61-3248-ba8a-45f7e4afd5cf",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1978-06-05"
+                              },
+                              "familyName": "Bilali",
+                              "gender": "PGEN$M",
+                              "givenName": "Suleiman Wanjau",
+                              "id": "IND-179f191a-a455-3b5e-aed2-2bcce5763769",
+                              "order": 50,
+                              "organisation": {
+                                "country": "CNTR$KEN",
+                                "id": "ORN-b84810d6-5fa2-3b29-a2bc-4d7aa9dd2c96",
+                                "name": "Kenya",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89937",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "10",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-70e4537b-ad9e-39d3-ac2b-a2dc1219105b",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA03-UNT01",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-26",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #1",
+                          "unitNumber": 1,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-70e4537b-ad9e-39d3-ac2b-a2dc1219105b",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 2,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-b0910ee4-059a-3cde-bf4d-bf63fbf3bf7d",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-09-23"
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Un-Chol",
+                              "id": "IND-1d4a50c1-7f98-3849-b60a-85caeadf6637",
+                              "order": 21,
+                              "organisation": {
+                                "country": "CNTR$PRK",
+                                "id": "ORN-3c0e3a3c-6a1d-30a5-a655-9da1abf5fb0f",
+                                "name": "Democratic People's Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89986",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "22",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-71975973-aa78-32c2-8b1b-71eae1afee27",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1980-07-14"
+                              },
+                              "familyName": "Stapovičius",
+                              "gender": "PGEN$M",
+                              "givenName": "Ivanas",
+                              "id": "IND-0116503e-93b6-3446-82c0-2129c59fd1e0",
+                              "order": 49,
+                              "organisation": {
+                                "country": "CNTR$LTU",
+                                "id": "ORN-0e8aa4f3-b307-3f16-a05c-4df77a2fef2e",
+                                "name": "Lithuania",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89955",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "10",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-44549412-0850-364b-950c-834b86321143",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA03-UNT02",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-26",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #2",
+                          "unitNumber": 2,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-44549412-0850-364b-950c-834b86321143",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 3,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-c944fb39-a105-3142-9e19-76281570a6f9",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1979-01-31"
+                              },
+                              "familyName": "Asloum",
+                              "gender": "PGEN$M",
+                              "givenName": "Brahim",
+                              "id": "IND-d15d55e5-161d-321e-a0e3-3c0d4693b13d",
+                              "order": 29,
+                              "organisation": {
+                                "country": "CNTR$FRA",
+                                "id": "ORN-cfd040bf-a941-375f-8957-4344c555d6a8",
+                                "name": "France",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89889",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "12",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-e25bac34-dd61-33fa-9f4a-b098e3e6fcf3",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1980-09-02"
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Gi-Seok",
+                              "id": "IND-b20f8bf9-27e0-3ed5-9531-569f4373914e",
+                              "order": 42,
+                              "organisation": {
+                                "country": "CNTR$KOR",
+                                "id": "ORN-d5afd3ca-ad54-368b-9bc8-1d45fd0db6b1",
+                                "name": "Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89949",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "8",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-14587479-7070-3371-ae60-59c12de47673",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA03-UNT03",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-26",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #3",
+                          "unitNumber": 3,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-14587479-7070-3371-ae60-59c12de47673",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 4,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-969d60c2-af65-3350-aefd-935c0b30ba3b",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1972-12-09"
+                              },
+                              "familyName": "Romero",
+                              "gender": "PGEN$M",
+                              "givenName": "Maikro",
+                              "id": "IND-1f5f8efa-0cff-37cf-80de-b7109e1673ec",
+                              "order": 4,
+                              "organisation": {
+                                "country": "CNTR$CUB",
+                                "id": "ORN-1ed9c51c-774d-34dd-bb39-2a2f19c79ab6",
+                                "name": "Cuba",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A1679",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "12",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-8ab5e410-15d0-3649-9125-d8e16606802b",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1976-09-23"
+                              },
+                              "familyName": "Sydorenko",
+                              "gender": "PGEN$M",
+                              "givenName": "Valeriy",
+                              "id": "IND-17d2566c-f25b-39ea-8214-aec5f49b5a7f",
+                              "order": 33,
+                              "organisation": {
+                                "country": "CNTR$UKR",
+                                "id": "ORN-5ae7e4cc-039e-36dc-8e0e-8009956a9681",
+                                "name": "Ukraine",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A90043",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "5",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-25e04861-2017-3537-83a2-ed826d7f8396",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA03-UNT04",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-26",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #4",
+                          "unitNumber": 4,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-25e04861-2017-3537-83a2-ed826d7f8396",
+                              "rel": "unit"
+                            }
+                          ]
+                        }
+                      ],
+                      "links": [
+                        {
+                          "type": "GET",
+                          "href": "/v1.4/phases/PHA-b4db5f69-6b61-30d9-8958-14f27cda5c31",
+                          "rel": "phase"
+                        }
+                      ]
+                    },
+                    {
+                      "end": {
+                        "date": "2000-09-28"
+                      },
+                      "id": "PHA-182274bb-10c7-3c4f-adfe-623945c1e9a6",
+                      "order": 4,
+                      "otherIds": [
+                        {
+                          "id": "26977-STG01-PHA04",
+                          "source": "OLYMPEDIA",
+                          "type": "ID"
+                        }
+                      ],
+                      "start": {
+                        "date": "2000-09-28"
+                      },
+                      "title": "Semi-Finals",
+                      "units": [
+                        {
+                          "order": 1,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-0af36dc5-3b13-31ab-b167-8698207440e9",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1970-01-24"
+                              },
+                              "familyName": "Lozano",
+                              "gender": "PGEN$M",
+                              "givenName": "Rafael",
+                              "id": "IND-946a6f08-2f52-3d20-bb76-2ba9050d1725",
+                              "order": 23,
+                              "organisation": {
+                                "country": "CNTR$ESP",
+                                "id": "ORN-7c287eb1-9806-3258-afd3-e81ffc97c0aa",
+                                "name": "Spain",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A2864",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "15",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-b0910ee4-059a-3cde-bf4d-bf63fbf3bf7d",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1979-09-23"
+                              },
+                              "familyName": "Kim",
+                              "gender": "PGEN$M",
+                              "givenName": "Un-Chol",
+                              "id": "IND-1d4a50c1-7f98-3849-b60a-85caeadf6637",
+                              "order": 46,
+                              "organisation": {
+                                "country": "CNTR$PRK",
+                                "id": "ORN-3c0e3a3c-6a1d-30a5-a655-9da1abf5fb0f",
+                                "name": "Democratic People's Republic of Korea",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89986",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "10",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-04921e1f-d0ec-39b7-9774-34a896d5ccb8",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA04-UNT01",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-28",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #1",
+                          "unitNumber": 1,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-04921e1f-d0ec-39b7-9774-34a896d5ccb8",
+                              "rel": "unit"
+                            }
+                          ]
+                        },
+                        {
+                          "order": 2,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-c944fb39-a105-3142-9e19-76281570a6f9",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1979-01-31"
+                              },
+                              "familyName": "Asloum",
+                              "gender": "PGEN$M",
+                              "givenName": "Brahim",
+                              "id": "IND-d15d55e5-161d-321e-a0e3-3c0d4693b13d",
+                              "order": 15,
+                              "organisation": {
+                                "country": "CNTR$FRA",
+                                "id": "ORN-cfd040bf-a941-375f-8957-4344c555d6a8",
+                                "name": "France",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89889",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "13",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-969d60c2-af65-3350-aefd-935c0b30ba3b",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1972-12-09"
+                              },
+                              "familyName": "Romero",
+                              "gender": "PGEN$M",
+                              "givenName": "Maikro",
+                              "id": "IND-1f5f8efa-0cff-37cf-80de-b7109e1673ec",
+                              "order": 56,
+                              "organisation": {
+                                "country": "CNTR$CUB",
+                                "id": "ORN-1ed9c51c-774d-34dd-bb39-2a2f19c79ab6",
+                                "name": "Cuba",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A1679",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "12",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "id": "UNT-84e5c3de-aad1-3d5b-b663-d06846228564",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA04-UNT02",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "date": "2000-09-28",
+                            "timezone": "+10:00"
+                          },
+                          "title": "Match #2",
+                          "unitNumber": 2,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-84e5c3de-aad1-3d5b-b663-d06846228564",
+                              "rel": "unit"
+                            }
+                          ]
+                        }
+                      ],
+                      "links": [
+                        {
+                          "type": "GET",
+                          "href": "/v1.4/phases/PHA-182274bb-10c7-3c4f-adfe-623945c1e9a6",
+                          "rel": "phase"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "PHA-da841091-e4a3-387b-a2a4-6c5a283442b9",
+                      "order": 5,
+                      "otherIds": [
+                        {
+                          "id": "26977-STG01-PHA05",
+                          "source": "OLYMPEDIA",
+                          "type": "ID"
+                        }
+                      ],
+                      "start": {
+                        "date": "2000-09-30"
+                      },
+                      "title": "Final Round",
+                      "units": [
+                        {
+                          "order": 1,
+                          "athletes": [
+                            {
+                              "participantId": "PTC-c944fb39-a105-3142-9e19-76281570a6f9",
+                              "bib": "Blue",
+                              "dateOfBirth": {
+                                "date": "1979-01-31"
+                              },
+                              "familyName": "Asloum",
+                              "gender": "PGEN$M",
+                              "givenName": "Brahim",
+                              "id": "IND-d15d55e5-161d-321e-a0e3-3c0d4693b13d",
+                              "order": 26,
+                              "organisation": {
+                                "country": "CNTR$FRA",
+                                "id": "ORN-cfd040bf-a941-375f-8957-4344c555d6a8",
+                                "name": "France",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A89889",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "extensions": {
+                                  "extendedResult": [
+                                    {
+                                      "$schema": "$box.extendedResult.v1",
+                                      "matchResult": "decision"
+                                    }
+                                  ]
+                                },
+                                "rank": 1,
+                                "value": "23",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            },
+                            {
+                              "participantId": "PTC-0af36dc5-3b13-31ab-b167-8698207440e9",
+                              "bib": "Red",
+                              "dateOfBirth": {
+                                "date": "1970-01-24"
+                              },
+                              "familyName": "Lozano",
+                              "gender": "PGEN$M",
+                              "givenName": "Rafael",
+                              "id": "IND-946a6f08-2f52-3d20-bb76-2ba9050d1725",
+                              "order": 57,
+                              "organisation": {
+                                "country": "CNTR$ESP",
+                                "id": "ORN-7c287eb1-9806-3258-afd3-e81ffc97c0aa",
+                                "name": "Spain",
+                                "type": "ORGT$OC"
+                              },
+                              "otherIds": [
+                                {
+                                  "id": "A2864",
+                                  "source": "OLYMPEDIA",
+                                  "type": "ID"
+                                }
+                              ],
+                              "result": {
+                                "rank": 2,
+                                "value": "10",
+                                "valueType": "SCORE"
+                              },
+                              "status": "PTST$ACTIVE"
+                            }
+                          ],
+                          "end": {
+                            "datetime": "2000-09-30T22:30:00+10:00"
+                          },
+                          "id": "UNT-e0e9a70f-e957-3aa8-895f-911f15548847",
+                          "otherIds": [
+                            {
+                              "id": "26977-STG01-PHA05-UNT01",
+                              "source": "OLYMPEDIA",
+                              "type": "ID"
+                            }
+                          ],
+                          "start": {
+                            "datetime": "2000-09-30T19:30:00+10:00"
+                          },
+                          "title": "Match 1/2",
+                          "unitNumber": 1,
+                          "links": [
+                            {
+                              "type": "GET",
+                              "href": "/v1.4/units/UNT-e0e9a70f-e957-3aa8-895f-911f15548847",
+                              "rel": "unit"
+                            }
+                          ]
+                        }
+                      ],
+                      "links": [
+                        {
+                          "type": "GET",
+                          "href": "/v1.4/phases/PHA-da841091-e4a3-387b-a2a4-6c5a283442b9",
+                          "rel": "phase"
+                        }
+                      ]
+                    }
+                  ],
+                  "title": "Light-Flyweight Men",
+                  "type": "STYP$BRACKETS",
+                  "links": [
+                    {
+                      "type": "GET",
+                      "href": "/v1.4/stages/STG-16d1c07d-c12f-34dd-bb74-6134417c696e",
+                      "rel": "stage"
+                    }
+                  ]
+                }
+              ],
+              "start": {
+                "date": "2000-09-17"
+              },
+              "title": "Light-Flyweight (≤48 kilograms)",
+              "type": "EVNT$BOXUnspecified",
+              "links": [
+                {
+                  "type": "GET",
+                  "href": "/v1.4/events/EVT-000e8780-ffd8-3e67-9d91-ea2948c4b5b3",
+                  "rel": "event"
+                }
+              ]
+            }
+          ],
+          "id": "DSP-f09042e2-00e4-3b14-adaa-5ec45b0bcafe",
+          "otherIds": [
+            {
+              "id": "25_BOX",
+              "source": "OLYMPEDIA",
+              "type": "ID"
+            }
+          ],
+          "sportDiscipline": "SDIS$BOX",
+          "title": "Boxing"
+        }
+      ],
+      "end": {
+        "date": "2000-10-01"
+      },
+      "id": "CMP-8f2af417-d1f5-3413-9620-d8fdb1644154",
+      "otherIds": [
+        {
+          "id": "25",
+          "source": "OLYMPEDIA",
+          "type": "ID"
+        }
+      ],
+      "start": {
+        "date": "2000-09-15"
+      },
+      "title": "Sydney 2000"
+    }
+  },
+  "feedFlag": "E",
+  "format": "USDF1.4",
+  "language": "EN",
+  "lastUpdate": "2022-10-05T12:32:36.1192414+00:00",
+  "source": "SDW",
+  "timestamp": "2022-10-05T12:32:36.1192414+00:00",
+  "type": "EVENT_EXTENDED",
+  "links": [
+    {
+      "type": "GET",
+      "href": "/v1.4/events/EVT-000e8780-ffd8-3e67-9d91-ea2948c4b5b3/extended?minified=False",
+      "rel": "self"
+    }
+  ]
+}

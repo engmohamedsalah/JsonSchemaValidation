@@ -1,0 +1,124 @@
+{
+	"type": "UNIT",
+	"timestamp": "2022-07-26T14:30:09.021Z",
+	"format": "USDF1.3",
+	"source": "ODF",
+	"feedFlag": "P",
+	"language": "EN",
+	"body": {
+		"competition": {
+			"id": "CMP-67bcb284-6d86-3493-a39a-ee9f5a37cae4",
+			"title": "Tokyo 2020",
+			"disciplines": [{
+				"id": "DSP-9f1d1147-6eed-311e-965d-2ca9a7d83b2e",
+				"title": "Judo",
+				"sportDiscipline": "SDIS$JUD",
+				"events": [{
+					"id": "EVT-093cc674-ff63-3eb1-9bca-134a9f1521fe",
+					"title": "Women -57 kg",
+					"type": "EVNT$JUD57kg",
+					"gender": "SGEN$W",
+					"competitorType": "INDIVIDUAL",
+					"stages": [{
+						"id": "STG-ffcb736a-3d35-3e61-8111-8d4a16a40393",
+						"title": "Women -57 kg",
+						"type": "STYP$BRACKETS",
+						"phases": [{
+							"id": "PHA-612270f9-6d81-3cde-a21e-08f997356516",
+							"title": "Women -57 kg Quarterfinals",
+							"units": [{
+								"id": "UNT-1afc9bd6-3566-3c03-906c-32b491cb84f6",
+								"title": "Women -57 kg Quarterfinal, Match 4",
+								"order": 4,
+								"start": {
+									"datetime": "2021-07-26T13:41:37.0000000+09:00"
+								},
+								"end": {
+									"datetime": "2021-07-26T13:46:40.0000000+09:00"
+								},
+								"status": "RCST$OFFICIAL",
+								"scheduleStatus": "SCST$FINISHED",
+								"athletes": [{
+									"id": "CPR-9a08c10e-f27e-3839-bc7a-79975fec5a31",
+									"gender": "PGEN$F",
+									"givenName": "Nora",
+									"familyName": "Gjakova",
+									"organisation": {
+										"id": "KOS",
+										"country": "CNTR$KOS",
+										"name": "Kosovo",
+										"type": "ORGT$OC"
+									},
+									"order": 1,
+									"extensions": {
+									    "miscellaneous": {
+											"$schema":"https://usdf-schema.oss-eu-central-1.aliyuncs.com/extensions/jud.competitor.v1.json",
+											"colour": "WHITE",
+											"bodyweight": "57.0"
+										}
+									},
+									"result": {
+										"value": "11",
+										"valueType": "POINTS",
+										"wlt": "SC_WLT$W",
+										"extensions": {
+											"extendedResult": {
+												"$schema":"https://usdf-schema.oss-eu-central-1.aliyuncs.com/extensions/jud.extendedResult.v1.json",
+												"wazaAri": 1,
+												"ippon": 1,
+												"yuko": 0,
+												"koka": 0,
+												"penalty": 0,
+												"time": "3:36",
+												"winningTechnique": "Kuzure-kami-shiho-gatame"
+											}
+										},
+										"sortOrder": 1
+									}
+								},
+								{
+									"id": "CPR-cf988046-38d3-3458-a216-d71b56697dd5",
+									"gender": "PGEN$F",
+									"givenName": "Kaja",
+									"familyName": "Kajzer",
+									"organisation": {
+										"id": "SLO",
+										"country": "CNTR$SLO",
+										"name": "Slovenia",
+										"type": "ORGT$OC"
+									},
+									"order": 2,
+									"extensions": {
+									    "miscellaneous": {
+											"$schema":"https://usdf-schema.oss-eu-central-1.aliyuncs.com/extensions/jud.competitor.v1.json",
+											"colour": "BLUE",
+											"bodyweight": "56.7"
+										}
+									},
+									"result": {
+										"value": "0s1",
+										"valueType": "POINTS",
+										"wlt": "SC_WLT$L",
+										"extensions": {
+											"extendedResult": {
+												"$schema":"https://usdf-schema.oss-eu-central-1.aliyuncs.com/extensions/jud.extendedResult.v1.json",
+												"wazaAri": 0,
+												"ippon": 0,
+												"yuko": 0,
+												"koka": 0,
+												"penalty": 1,
+												"time": "3:36"
+											}
+										},
+										"sortOrder": 2
+									}
+								}]
+							}]
+						}]
+					}]
+				}]
+			}]
+		}
+	},
+	"lastUpdate": "2022-07-26T14:30:09.0210000+00:00"
+}
